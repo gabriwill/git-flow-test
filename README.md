@@ -11,4 +11,5 @@
 ### New Feature 1
 
 - implements new feature begin
+- Finish feature implementation
 
