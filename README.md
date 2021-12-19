@@ -8,3 +8,7 @@
 
 ### Develop branch created
 
+### New feature 1
+
+- feature developed by another dev
+
