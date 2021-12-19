@@ -12,3 +12,8 @@
 
 - feature developed by another dev
 
+### New Feature 2
+
+- implements new feature begin
+- Finish feature implementation
+
