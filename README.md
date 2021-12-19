@@ -8,7 +8,11 @@
 
 ### Develop branch created
 
-### New Feature 1
+### New feature 1
+
+- feature developed by another dev
+
+### New Feature 2
 
 - implements new feature begin
 - Finish feature implementation
